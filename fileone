@@ -1,2 +1,6 @@
 This is the original text. We want to explain how merge conflict happens. Follow the instructions and steps correctly.
+<<<<<<< HEAD
 But we also want to add text here in master's branch fileone
+=======
+But we also want to add some text here in the branch 'test'.
+>>>>>>> testone
